@@ -1,0 +1,17 @@
+{
+  "backgroundUrl": "https://firebasestorage.googleapis.com/v0/b/partyinvitation-11cda.appspot.com/o/background.png?alt=media&token=beaf8147-63a1-4803-9867-e5db8c15efb3",
+  "fromImgUrl": "https://sun9-88.userapi.com/impg/PT2zUZltwvKsN8ULJj3fY9XXsZnO_hfcstq6VQ/C2nsYi7mgzU.jpg?size=2560x1707&quality=96&sign=48567f23e9b149c1c264d68cfa35b56c&type=album",
+  "fromName": "Александр Хряпин",
+  "guest": [
+    {
+      "id": "1",
+      "imgUrl": "https://sun9-2.userapi.com/impg/YTXa7A_2giLlYaFxY0o5TsWSFhVXg2jr8Urzyw/YoZ65pL1AtY.jpg?size=1440x1440&quality=96&sign=a4ace891a902fa2058786f5f0255cc86&type=album",
+      "name": "Коля"
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://sun9-63.userapi.com/impf/c846018/v846018204/14f815/xOku2DYKO8c.jpg?size=720x959&quality=96&sign=d4013d1f01c59abfd397964dd980124e&type=album",
+      "name": "Дарья"
+    }
+  ]
+}
